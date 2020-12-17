@@ -1,0 +1,237 @@
+GeForce GTX 1080 Ti
+Network:
+Net:
+Creating Net!! 
+    Total params: 2.40M
+Train:
+  init cost variables:
+it 0/100, Jtr_pred = 0.329998, err = 0.099750,    time: 10.079481 seconds
+    Jdev = 0.201081, err = 0.060200
+best test error
+Writting /output/theta_best.dat
+it 1/100, Jtr_pred = 0.188278, err = 0.056350,    time: 9.682771 seconds
+    Jdev = 0.172069, err = 0.050800
+best test error
+Writting /output/theta_best.dat
+it 2/100, Jtr_pred = 0.168964, err = 0.049300,    time: 9.557762 seconds
+    Jdev = 0.152290, err = 0.042100
+best test error
+Writting /output/theta_best.dat
+it 3/100, Jtr_pred = 0.164831, err = 0.047517,    time: 9.486043 seconds
+    Jdev = 0.153154, err = 0.046900
+it 4/100, Jtr_pred = 0.159371, err = 0.044633,    time: 9.502708 seconds
+    Jdev = 0.144527, err = 0.041800
+best test error
+Writting /output/theta_best.dat
+it 5/100, Jtr_pred = 0.157838, err = 0.045050,    time: 9.703472 seconds
+    Jdev = 0.144865, err = 0.043500
+it 6/100, Jtr_pred = 0.156082, err = 0.045600,    time: 9.639779 seconds
+    Jdev = 0.142211, err = 0.041300
+best test error
+Writting /output/theta_best.dat
+it 7/100, Jtr_pred = 0.155149, err = 0.044250,    time: 9.393254 seconds
+    Jdev = 0.158750, err = 0.050800
+it 8/100, Jtr_pred = 0.156329, err = 0.044150,    time: 9.769666 seconds
+    Jdev = 0.151070, err = 0.042800
+it 9/100, Jtr_pred = 0.155946, err = 0.044000,    time: 9.718483 seconds
+    Jdev = 0.148617, err = 0.044500
+it 10/100, Jtr_pred = 0.154556, err = 0.043650,    time: 9.593279 seconds
+    Jdev = 0.140475, err = 0.038900
+	
+	
+best test error
+Writting /output/theta_best.dat
+it 11/100, Jtr_pred = 0.152281, err = 0.043550,    time: 9.378030 seconds
+    Jdev = 0.163583, err = 0.047400
+it 12/100, Jtr_pred = 0.155917, err = 0.044017,    time: 9.483870 seconds
+    Jdev = 0.144514, err = 0.040200
+it 13/100, Jtr_pred = 0.154931, err = 0.045067,    time: 9.511344 seconds
+    Jdev = 0.150868, err = 0.043100
+it 14/100, Jtr_pred = 0.152245, err = 0.043150,    time: 9.879449 seconds
+    Jdev = 0.166535, err = 0.051400
+it 15/100, Jtr_pred = 0.153101, err = 0.043833,    time: 9.594289 seconds
+    Jdev = 0.173231, err = 0.052200
+it 16/100, Jtr_pred = 0.151850, err = 0.042883,    time: 9.570619 seconds
+    Jdev = 0.143766, err = 0.040500
+it 17/100, Jtr_pred = 0.153433, err = 0.044017,    time: 9.632744 seconds
+    Jdev = 0.146862, err = 0.043100
+it 18/100, Jtr_pred = 0.153053, err = 0.043567,    time: 9.617848 seconds
+    Jdev = 0.153362, err = 0.043500
+it 19/100, Jtr_pred = 0.154006, err = 0.043800,    time: 9.499496 seconds
+    Jdev = 0.142531, err = 0.041600
+it 20/100, Jtr_pred = 0.152098, err = 0.044183,    time: 10.037864 seconds
+    Jdev = 0.141003, err = 0.039500
+it 21/100, Jtr_pred = 0.152634, err = 0.042950,    time: 9.962551 seconds
+    Jdev = 0.160330, err = 0.048500
+it 22/100, Jtr_pred = 0.152169, err = 0.044083,    time: 9.444818 seconds
+    Jdev = 0.160454, err = 0.050200
+it 23/100, Jtr_pred = 0.152059, err = 0.043700,    time: 9.672025 seconds
+    Jdev = 0.153631, err = 0.043500
+it 24/100, Jtr_pred = 0.153192, err = 0.043050,    time: 9.554633 seconds
+    Jdev = 0.147184, err = 0.039800
+it 25/100, Jtr_pred = 0.153244, err = 0.044233,    time: 9.518457 seconds
+    Jdev = 0.175159, err = 0.053700
+it 26/100, Jtr_pred = 0.152798, err = 0.043350,    time: 9.542803 seconds
+    Jdev = 0.149836, err = 0.042900
+it 27/100, Jtr_pred = 0.151615, err = 0.043167,    time: 9.630789 seconds
+    Jdev = 0.139620, err = 0.038400
+	
+	
+best test error
+Writting /output/theta_best.dat
+it 28/100, Jtr_pred = 0.152648, err = 0.043617,    time: 10.016093 seconds
+    Jdev = 0.161721, err = 0.048600
+it 29/100, Jtr_pred = 0.152680, err = 0.044183,    time: 9.863563 seconds
+    Jdev = 0.142386, err = 0.040100
+it 30/100, Jtr_pred = 0.152111, err = 0.043467,    time: 9.683053 seconds
+    Jdev = 0.152545, err = 0.043100
+it 31/100, Jtr_pred = 0.151550, err = 0.042933,    time: 9.514710 seconds
+    Jdev = 0.150262, err = 0.042400
+it 32/100, Jtr_pred = 0.153816, err = 0.044017,    time: 9.193404 seconds
+    Jdev = 0.158128, err = 0.045200
+it 33/100, Jtr_pred = 0.152300, err = 0.043517,    time: 9.586364 seconds
+    Jdev = 0.174864, err = 0.054100
+it 34/100, Jtr_pred = 0.155310, err = 0.044800,    time: 9.513237 seconds
+    Jdev = 0.143697, err = 0.043800
+it 35/100, Jtr_pred = 0.152149, err = 0.043533,    time: 9.838905 seconds
+    Jdev = 0.145920, err = 0.042300
+it 36/100, Jtr_pred = 0.151887, err = 0.042933,    time: 9.787570 seconds
+    Jdev = 0.152393, err = 0.045300
+it 37/100, Jtr_pred = 0.153317, err = 0.043783,    time: 9.570549 seconds
+    Jdev = 0.154575, err = 0.046300
+it 38/100, Jtr_pred = 0.151559, err = 0.043150,    time: 9.338423 seconds
+    Jdev = 0.141839, err = 0.041600
+it 39/100, Jtr_pred = 0.152034, err = 0.043350,    time: 9.809199 seconds
+    Jdev = 0.175007, err = 0.052500
+it 40/100, Jtr_pred = 0.153449, err = 0.042633,    time: 9.928154 seconds
+    Jdev = 0.154183, err = 0.044700
+it 41/100, Jtr_pred = 0.152921, err = 0.043517,    time: 9.724833 seconds
+    Jdev = 0.152807, err = 0.045400
+it 42/100, Jtr_pred = 0.152489, err = 0.044667,    time: 9.467768 seconds
+    Jdev = 0.150396, err = 0.042400
+it 43/100, Jtr_pred = 0.151152, err = 0.043233,    time: 9.568713 seconds
+    Jdev = 0.143103, err = 0.040700
+it 44/100, Jtr_pred = 0.152042, err = 0.043283,    time: 9.572485 seconds
+    Jdev = 0.172912, err = 0.050900
+it 45/100, Jtr_pred = 0.152587, err = 0.043817,    time: 9.650824 seconds
+    Jdev = 0.144596, err = 0.041500
+it 46/100, Jtr_pred = 0.152300, err = 0.043733,    time: 9.855344 seconds
+    Jdev = 0.140386, err = 0.041100
+it 47/100, Jtr_pred = 0.153315, err = 0.043483,    time: 9.516280 seconds
+    Jdev = 0.159953, err = 0.048400
+it 48/100, Jtr_pred = 0.151198, err = 0.042850,    time: 9.677234 seconds
+    Jdev = 0.152242, err = 0.044500
+it 49/100, Jtr_pred = 0.151821, err = 0.044317,    time: 9.674304 seconds
+    Jdev = 0.160199, err = 0.047300
+it 50/100, Jtr_pred = 0.151611, err = 0.044533,    time: 9.688411 seconds
+    Jdev = 0.148348, err = 0.041200
+it 51/100, Jtr_pred = 0.154833, err = 0.045100,    time: 9.694981 seconds
+    Jdev = 0.143078, err = 0.040500
+it 52/100, Jtr_pred = 0.152764, err = 0.043800,    time: 9.492615 seconds
+    Jdev = 0.139400, err = 0.039000
+it 53/100, Jtr_pred = 0.152529, err = 0.042817,    time: 9.590944 seconds
+    Jdev = 0.155575, err = 0.045100
+it 54/100, Jtr_pred = 0.152663, err = 0.043550,    time: 9.738982 seconds
+    Jdev = 0.142510, err = 0.037900
+	
+	
+best test error
+Writting /output/theta_best.dat
+it 55/100, Jtr_pred = 0.151886, err = 0.043367,    time: 9.371734 seconds
+    Jdev = 0.148037, err = 0.042800
+it 56/100, Jtr_pred = 0.152689, err = 0.044233,    time: 9.373689 seconds
+    Jdev = 0.146720, err = 0.042000
+it 57/100, Jtr_pred = 0.150749, err = 0.042700,    time: 9.603669 seconds
+    Jdev = 0.144813, err = 0.043100
+it 58/100, Jtr_pred = 0.151731, err = 0.043533,    time: 9.596048 seconds
+    Jdev = 0.152191, err = 0.043700
+it 59/100, Jtr_pred = 0.152084, err = 0.043317,    time: 9.779741 seconds
+    Jdev = 0.144703, err = 0.039000
+it 60/100, Jtr_pred = 0.151814, err = 0.043783,    time: 9.806373 seconds
+    Jdev = 0.139098, err = 0.039600
+it 61/100, Jtr_pred = 0.151155, err = 0.043683,    time: 9.634313 seconds
+    Jdev = 0.144968, err = 0.041300
+it 62/100, Jtr_pred = 0.152908, err = 0.044350,    time: 9.645789 seconds
+    Jdev = 0.159467, err = 0.045600
+it 63/100, Jtr_pred = 0.151994, err = 0.043883,    time: 9.820069 seconds
+    Jdev = 0.151773, err = 0.043400
+it 64/100, Jtr_pred = 0.152152, err = 0.043333,    time: 9.734450 seconds
+    Jdev = 0.145927, err = 0.041400
+it 65/100, Jtr_pred = 0.151778, err = 0.043600,    time: 9.742640 seconds
+    Jdev = 0.154828, err = 0.041100
+it 66/100, Jtr_pred = 0.154522, err = 0.043733,    time: 9.707741 seconds
+    Jdev = 0.144256, err = 0.042000
+it 67/100, Jtr_pred = 0.152557, err = 0.043617,    time: 9.584703 seconds
+    Jdev = 0.149622, err = 0.043100
+it 68/100, Jtr_pred = 0.151680, err = 0.043283,    time: 9.710112 seconds
+    Jdev = 0.139875, err = 0.039000
+it 69/100, Jtr_pred = 0.152121, err = 0.043517,    time: 9.864269 seconds
+    Jdev = 0.149032, err = 0.043000
+it 70/100, Jtr_pred = 0.153148, err = 0.043933,    time: 9.592027 seconds
+    Jdev = 0.148495, err = 0.043400
+it 71/100, Jtr_pred = 0.153013, err = 0.043383,    time: 9.629557 seconds
+    Jdev = 0.147065, err = 0.042500
+it 72/100, Jtr_pred = 0.151833, err = 0.043533,    time: 9.443823 seconds
+    Jdev = 0.149829, err = 0.042600
+it 73/100, Jtr_pred = 0.152664, err = 0.042917,    time: 9.729140 seconds
+    Jdev = 0.152973, err = 0.046400
+it 74/100, Jtr_pred = 0.151938, err = 0.043083,    time: 9.446294 seconds
+    Jdev = 0.156515, err = 0.048000
+it 75/100, Jtr_pred = 0.154189, err = 0.043850,    time: 9.491158 seconds
+    Jdev = 0.151942, err = 0.043000
+it 76/100, Jtr_pred = 0.151867, err = 0.043667,    time: 9.772075 seconds
+    Jdev = 0.163549, err = 0.049200
+it 77/100, Jtr_pred = 0.152175, err = 0.043383,    time: 9.601591 seconds
+    Jdev = 0.139943, err = 0.039700
+it 78/100, Jtr_pred = 0.151612, err = 0.042717,    time: 9.493940 seconds
+    Jdev = 0.139314, err = 0.040600
+it 79/100, Jtr_pred = 0.154149, err = 0.044017,    time: 9.701723 seconds
+    Jdev = 0.146678, err = 0.039500
+it 80/100, Jtr_pred = 0.152583, err = 0.044183,    time: 9.791664 seconds
+    Jdev = 0.154575, err = 0.044200
+it 81/100, Jtr_pred = 0.150919, err = 0.042383,    time: 9.847090 seconds
+    Jdev = 0.167025, err = 0.049700
+it 82/100, Jtr_pred = 0.150412, err = 0.043817,    time: 9.900117 seconds
+    Jdev = 0.145715, err = 0.042100
+it 83/100, Jtr_pred = 0.151594, err = 0.043500,    time: 9.726998 seconds
+    Jdev = 0.144968, err = 0.040300
+it 84/100, Jtr_pred = 0.152286, err = 0.043450,    time: 9.558482 seconds
+    Jdev = 0.140229, err = 0.040300
+it 85/100, Jtr_pred = 0.153643, err = 0.043483,    time: 9.457882 seconds
+    Jdev = 0.159098, err = 0.044800
+it 86/100, Jtr_pred = 0.152545, err = 0.043533,    time: 9.693180 seconds
+    Jdev = 0.142162, err = 0.040000
+it 87/100, Jtr_pred = 0.152617, err = 0.043150,    time: 9.582009 seconds
+    Jdev = 0.165710, err = 0.048800
+it 88/100, Jtr_pred = 0.152273, err = 0.043483,    time: 9.582648 seconds
+    Jdev = 0.138477, err = 0.038200
+it 89/100, Jtr_pred = 0.151840, err = 0.042900,    time: 9.623558 seconds
+    Jdev = 0.197855, err = 0.060800
+it 90/100, Jtr_pred = 0.152187, err = 0.043633,    time: 9.632909 seconds
+    Jdev = 0.138770, err = 0.038900
+it 91/100, Jtr_pred = 0.153548, err = 0.043683,    time: 9.399087 seconds
+    Jdev = 0.155760, err = 0.044400
+it 92/100, Jtr_pred = 0.152555, err = 0.042783,    time: 9.604619 seconds
+    Jdev = 0.149945, err = 0.046000
+it 93/100, Jtr_pred = 0.152337, err = 0.043150,    time: 9.459318 seconds
+    Jdev = 0.144068, err = 0.041100
+it 94/100, Jtr_pred = 0.151543, err = 0.043433,    time: 9.706485 seconds
+    Jdev = 0.150056, err = 0.044300
+it 95/100, Jtr_pred = 0.152464, err = 0.043367,    time: 9.528612 seconds
+    Jdev = 0.155207, err = 0.041700
+it 96/100, Jtr_pred = 0.152463, err = 0.043317,    time: 9.631421 seconds
+    Jdev = 0.142883, err = 0.041800
+it 97/100, Jtr_pred = 0.151171, err = 0.042933,    time: 9.090660 seconds
+    Jdev = 0.153724, err = 0.043900
+it 98/100, Jtr_pred = 0.153718, err = 0.044267,    time: 8.992060 seconds
+    Jdev = 0.152171, err = 0.044700
+it 99/100, Jtr_pred = 0.152491, err = 0.043917,    time: 9.206542 seconds
+    Jdev = 0.134849, err = 0.039000
+   average time: 11.181550 seconds
+   
+Writting /output/theta_last.dat
+RESULTS:
+  cost_dev: 0.134849 (cost_train 0.150412)
+  err_dev: 0.037900
+  nb_parameters: 2395210 (2.28MB)
+  time_per_it: 11.181550s
